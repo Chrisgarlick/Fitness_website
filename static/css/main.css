@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+    background-image: url("/static/Images/training.jpg");
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background {
+    width: 50%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 340px;
+}
+
+.background h1 {
+    font-size: 50px;
+    padding-top: 20px;
+}
+
+.background p {
+    font-size: 18px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+nav li {
+    display: inline;
+    list-style: none;
+    padding: 0 40px;
+}
+
+nav li a {
+    color: whitesmoke;
+    text-decoration: none;
+}

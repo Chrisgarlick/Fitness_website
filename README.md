@@ -1,4 +1,4 @@
-# Fitness_website
+# Fitness Website
 A One page fitness website made with Python, Django, HTML and CSS
 
 
